@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  b2GLDraw.cpp
+c:\users\g1745 iron\documents\fontes\cpp\sfml-tutor\sfml template\sfml template\b2gldraw.cpp(36): warning C4101: 'glVertices': unreferenced local variable
+c:\users\g1745 iron\documents\fontes\cpp\sfml-tutor\sfml template\sfml template\b2gldraw.cpp(53): warning C4101: 'glVertices': unreferenced local variable
+  Generating Code...
+  SFML Template.vcxproj -> C:\Users\G1745 IRON\Documents\Fontes\cpp\SFML-Tutor\SFML Template\Debug\SFML Template.exe
+  SFML Template.vcxproj -> C:\Users\G1745 IRON\Documents\Fontes\cpp\SFML-Tutor\SFML Template\Debug\SFML Template.pdb (Full PDB)
